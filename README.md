@@ -1,0 +1,1 @@
+# cqrs_quarkus_kafka_eks
